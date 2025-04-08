@@ -1,2 +1,2 @@
-# Adyapana-Institute
+# 🎓 Student Management System (LMS)
  
